@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter import filedialog, messagebox, Label, Entry, Button, Text
+from tkinter import filedialog, messagebox, Label, Button, Text
 import requests
 import os
 
