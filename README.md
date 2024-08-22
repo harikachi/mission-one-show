@@ -10,7 +10,8 @@ pip3 install azure-cognitiveservices-vision-computervision
 
 pip3 install load_dotenv
 
-Create two resource types as Cognitive computer vision api and customised vision api on Azure and capture the keys and end point urls.
+Create a resources with type as Custom Vision under market place of Azure portal and grab the API key and endpoint URL.
+Carate another resource with type as Computer Vision under market place of Azure portal and grab the API key and endpoint URL.
 
 Store these values in .env file in your local with the environment variable names as below.
   Computer vision API key and endpoint
@@ -19,3 +20,5 @@ Store these values in .env file in your local with the environment variable name
   Customised Vision API key and endpoint
     PREDICTION_KEY
     PREDICTION_END_POINT
+
+Run the AnalyzeImage.py program and upload a sample image from your local machine.
