@@ -1,8 +1,10 @@
-# mission-one-show
+**Description**
 
-Python program which accepts an image from the local computer and identified the type of vehicle and made of vehicle along with pre configured insurance for each of the type of the car.
+A Python program which accepts an image from the local system and identifies the type and made of the vehicle.
 
-Prerequisites
+Calculates the pre configured insurance for the identified car.
+
+**Prerequisites**
 
 Python 3.12.5
 
